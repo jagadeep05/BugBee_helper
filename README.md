@@ -21,7 +21,6 @@ Requirements
 Installation
 1. Clone the repository:
    git clone https://github.com/jagadeep05/BugBee_helper
-   cd bugbounty-tool
 
 2. Run the setup.py script to install all dependencies and third-party tools:
    sudo python3 setup.py
